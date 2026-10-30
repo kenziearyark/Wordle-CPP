@@ -29,7 +29,7 @@ To build the project, you need:
 - A C++17-compatible compiler
 - [libcurl](https://curl.se/libcurl/)
 - [nlohmann/json](https://github.com/nlohmann/json)
-- An internet connection while playing
+- Internet
 
 ## Building
 
