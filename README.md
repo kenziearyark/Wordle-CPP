@@ -31,27 +31,6 @@ To build the project, you need:
 - [nlohmann/json](https://github.com/nlohmann/json)
 - An internet connection while playing
 
-### Installing dependencies
-
-On Ubuntu or Debian:
-
-```bash
-sudo apt update
-sudo apt install g++ libcurl4-openssl-dev nlohmann-json3-dev
-```
-
-On Fedora:
-
-```bash
-sudo dnf install gcc-c++ libcurl-devel json-devel
-```
-
-On macOS with Homebrew:
-
-```bash
-brew install curl nlohmann-json
-```
-
 ## Building
 
 If the source file is named `main.cpp`, compile it with:
